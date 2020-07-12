@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-INSERT BANNER HERE
+![image](https://github.com/smalbadger/smalbadger/edit/master/coconut_boat.jpg)
 
 By day, I'm an engineer at General Dynamics Mission Systems where I work on satellite encryption. By night, I'm an automation enthusiast focused on building my software startup's product called **Facile**.
 
