@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smalbadger)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/smalbadger)   
+![GitHub metrics](https://metrics.lecoq.io/smalbadger?count_private=true)   
