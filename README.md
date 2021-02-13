@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/smalbadger)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
